@@ -86,4 +86,4 @@ function circunferencia() {
         return 2 * pi * lados ;
       }
 }
-console.log(circunferencia());
+circunferencia();
